@@ -1,11 +1,10 @@
-package com.isaiasrafael.aprendendospring.business;
+package com.isaiasrafael.authservice.business;
 
-import com.isaiasrafael.aprendendospring.infrastructure.entity.Usuario;
-import com.isaiasrafael.aprendendospring.infrastructure.exceptions.ConflictExceptions;
-import com.isaiasrafael.aprendendospring.infrastructure.exceptions.ResourceNotFoundException;
-import com.isaiasrafael.aprendendospring.infrastructure.repository.UsuarioRepository;
+import com.isaiasrafael.authservice.infrastructure.entity.Usuario;
+import com.isaiasrafael.authservice.infrastructure.exceptions.ConflictExceptions;
+import com.isaiasrafael.authservice.infrastructure.exceptions.ResourceNotFoundException;
+import com.isaiasrafael.authservice.infrastructure.repository.UsuarioRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 

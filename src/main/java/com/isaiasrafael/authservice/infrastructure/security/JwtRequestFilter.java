@@ -1,4 +1,4 @@
-package com.isaiasrafael.aprendendospring.infrastructure.security;
+package com.isaiasrafael.authservice.infrastructure.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

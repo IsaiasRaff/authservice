@@ -1,4 +1,4 @@
-package com.isaiasrafael.aprendendospring.controller.dtos;
+package com.isaiasrafael.authservice.controller.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.isaiasrafael.aprendendospring.infrastructure.exceptions;
+package com.isaiasrafael.authservice.infrastructure.exceptions;
 
 public class ConflictExceptions extends RuntimeException {
     public ConflictExceptions(String mensagem){

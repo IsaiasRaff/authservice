@@ -1,8 +1,8 @@
-package com.isaiasrafael.aprendendospring.infrastructure.security;
+package com.isaiasrafael.authservice.infrastructure.security;
 
 
-import com.isaiasrafael.aprendendospring.infrastructure.entity.Usuario;
-import com.isaiasrafael.aprendendospring.infrastructure.repository.UsuarioRepository;
+import com.isaiasrafael.authservice.infrastructure.entity.Usuario;
+import com.isaiasrafael.authservice.infrastructure.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

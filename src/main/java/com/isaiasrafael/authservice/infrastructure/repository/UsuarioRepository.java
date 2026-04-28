@@ -1,6 +1,6 @@
-package com.isaiasrafael.aprendendospring.infrastructure.repository;
+package com.isaiasrafael.authservice.infrastructure.repository;
 
-import com.isaiasrafael.aprendendospring.infrastructure.entity.Usuario;
+import com.isaiasrafael.authservice.infrastructure.entity.Usuario;
 import jakarta.transaction.Transactional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

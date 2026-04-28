@@ -1,6 +1,6 @@
-package com.isaiasrafael.aprendendospring.infrastructure.repository;
+package com.isaiasrafael.authservice.infrastructure.repository;
 
-import com.isaiasrafael.aprendendospring.infrastructure.entity.Endereco;
+import com.isaiasrafael.authservice.infrastructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

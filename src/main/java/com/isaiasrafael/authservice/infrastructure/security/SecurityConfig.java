@@ -1,4 +1,4 @@
-package com.isaiasrafael.aprendendospring.infrastructure.security;
+package com.isaiasrafael.authservice.infrastructure.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

@@ -1,10 +1,10 @@
-package com.isaiasrafael.aprendendospring;
+package com.isaiasrafael.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AprendendospringApplicationTests {
+class AuthserviceApplicationTests {
 
 	@Test
 	void contextLoads() {

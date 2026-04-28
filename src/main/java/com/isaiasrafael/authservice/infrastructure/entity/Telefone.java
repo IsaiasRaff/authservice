@@ -1,4 +1,4 @@
-package com.isaiasrafael.aprendendospring.infrastructure.entity;
+package com.isaiasrafael.authservice.infrastructure.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

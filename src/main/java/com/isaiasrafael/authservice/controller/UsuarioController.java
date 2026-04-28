@@ -1,9 +1,9 @@
-package com.isaiasrafael.aprendendospring.controller;
+package com.isaiasrafael.authservice.controller;
 
-import com.isaiasrafael.aprendendospring.business.UsuarioService;
-import com.isaiasrafael.aprendendospring.controller.dtos.UsuarioDTO;
-import com.isaiasrafael.aprendendospring.infrastructure.entity.Usuario;
-import com.isaiasrafael.aprendendospring.infrastructure.security.JwtUtil;
+import com.isaiasrafael.authservice.business.UsuarioService;
+import com.isaiasrafael.authservice.controller.dtos.UsuarioDTO;
+import com.isaiasrafael.authservice.infrastructure.entity.Usuario;
+import com.isaiasrafael.authservice.infrastructure.security.JwtUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
