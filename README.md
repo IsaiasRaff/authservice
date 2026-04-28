@@ -1,8 +1,7 @@
 <h3>This project is an application developed using the Spring ecosystem, focused on building secure, well-structured, and scalable REST APIs. The application follows best practices for layered architecture and implements authentication and authorization using Spring Security.</h3>
 <br><br>
 
-🛠️ <b>Technologies Used</b>
-<br><br>
+🛠️ <b>Technologies Used</b><br>
 ☕ Java 17+<br>
 🌱 Spring Boot<br>
 🌐 Spring Web<br>
