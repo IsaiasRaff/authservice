@@ -48,7 +48,7 @@ Maven<br><br>
 
 Passos:<br>
 # Clonar repositório<br>
-git clone https://github.com/seu-usuario/aprendendospring.git<br><br>
+git clone https://github.com/IsaiasRaff/aprendendospring<br><br>
 
 # Entrar na pasta<br>
 cd seu-repo<br><br>
