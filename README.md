@@ -23,9 +23,10 @@ The project follows a layered architecture pattern, promoting separation of conc
 ┣ 📂 dto → Data Transfer Objects<br>
 ┣ 📂 entity → Database entities<br>
 ┣ 📂 config → Configurations (Security, Beans, etc.)<br>
-┗ 📂 exception → Exception handling<br>
-🔁 Application Flow
-<br><br>
+┗ 📂 exception → Exception handling<br><br>
+
+🔁 <b>Application Flow:</b>
+<br>
 Controller → Service → Repository → Database
 <br><br>
 🔐 <b>Security (Spring Security)</b>
