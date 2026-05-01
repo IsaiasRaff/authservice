@@ -13,11 +13,11 @@
 🧪 Postman
 <br><br>
 
-🏗️ <b>Architecture</b><br>
+<b>Architecture</b><br>
 The project follows a layered architecture pattern, promoting separation of concerns:
 <br><br>
 
-📦 src/main/java<br>
+src/main/java<br>
 ┣ 📂 controller → Entry layer (REST API)<br>
 ┣ 📂 service → Business logic<br>
 ┣ 📂 repository → Data access (JPA)<br>
@@ -26,12 +26,12 @@ The project follows a layered architecture pattern, promoting separation of conc
 ┣ 📂 config → Configurations (Security, Beans, etc.)<br>
 ┗ 📂 exception → Exception handling<br><br>
 
-🔁 <b>Application Flow:</b>
+<b>Application Flow:</b>
 <br>
 Controller → Service → Repository → Database
 <br><br>
 
-🔐 <b>Security (Spring Security)</b><br>
+<b>Security (Spring Security)</b><br>
 The application uses Spring Security for authentication and authorization control.
 <br><br>
 
@@ -41,7 +41,7 @@ Password encryption<br>
 Endpoint protection<br>
 JWT-based authentication<br><br>
 
-📡 <b>Endpoints</b><br>
+<b>Endpoints</b><br>
 Method	| Endpoint	| Description<br>
 POST	| /usuarios	| Create user<br>
 POST	| /auth/login	| Authentication<br>
@@ -70,13 +70,13 @@ The application will be available at:<br>
 http://localhost:8080
 <br><br>
 
-🧪 <b>Testing</b><br>
+<b>Testing</b><br>
 To run tests:<br>
 Postman<br>
 PostgreSQL<br>
 Maven: mvn test <br><br>
 
-📄 <b>Best Practices Applied</b><br>
+<b>Best Practices Applied</b><br>
 Layered architecture (Controller, Service, Repository)<br>
 Use of DTOs for external communication<br>
 Global exception handling<br>
